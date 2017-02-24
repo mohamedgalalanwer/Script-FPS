@@ -1,0 +1,8 @@
+
+
+public enum GameState
+2	{
+3		GameNew,
+4		GameRun,
+5		GameOver
+6	}
